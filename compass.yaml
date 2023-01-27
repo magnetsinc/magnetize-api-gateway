@@ -8,7 +8,7 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://bitbucket.org/magnetsinc/magnetize-api-gateway'
-  - name: '#magnetic'
+  - name: 'Contact us here'
     type: CHAT_CHANNEL
     url: 'https://magnetsinc.slack.com/archives/C049E2AUHRC'
   - name: Jira Project
